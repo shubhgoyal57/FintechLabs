@@ -9,7 +9,6 @@ class Student {
     String course
 
 
-
     static constraints = {
 
         name(blank: false,size: 4..20)

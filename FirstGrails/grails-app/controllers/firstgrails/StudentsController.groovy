@@ -4,7 +4,7 @@ class StudentsController {
 
     def index() {
 
-        println("in controller")
+
         Student s1=new Student()
         s1.name="shuhbam"
         s1.age=23
